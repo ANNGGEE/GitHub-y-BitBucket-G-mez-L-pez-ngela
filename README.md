@@ -1,8 +1,6 @@
 # GitHub-y-BitBucket-G-mez-L-pez-ngela
 Repositorio de prueba para explorar y aprender a utilizar las principales funcionalidades y herramientas que ofrece GitHub
 
-Para comprobar cómo funciona el control de versiones, vamos a realizar una modificación en uno de los archivos de nuestro repositorio. En este caso, editaremos el archivo README.md para añadir nuevo contenido y observar cómo GitHub registra posteriormente estos cambios.
-
 ## MODIFICACIÓN DE ARCHIVO
 Añadimos nuevo contenido y observamos cómo GitHub registra posteriormente estos cambios.
 
