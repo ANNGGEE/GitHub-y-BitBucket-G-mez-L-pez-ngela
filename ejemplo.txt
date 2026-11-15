@@ -2,6 +2,6 @@ Mi proyecto de prueba
 Versión 1: Este es el contenido inicial.
 
 Versión 4: Las Pull Request
-Las Pull Requests (solicitudes de cambios) son una de las funcionalidades más importantes de GitHub. Permiten proponer modificaciones en el código de un proyecto antes de incorporarlas a una rama principal o a cualquier otra rama del repositorio.
+Permiten proponer modificaciones en el código de un proyecto antes de incorporarlas a una rama principal o a cualquier otra rama del repositorio.
 
-GitHub incorpora un sistema de revisión que permite a los colaboradores valorar los cambios propuestos antes de incorporarlos al proyecto. Entre las opciones disponibles se encuentran aprobar las modificaciones (Approve), solicitar cambios adicionales (Request changes) o dejar comentarios (Comment), garantizando así una revisión del código antes de su integración.
+GitHub incorpora un sistema de revisión que permite a los colaboradores valorar los cambios propuestos antes de incorporarlos al proyecto. Se pueden aprobar las modificaciones (Approve), solicitar cambios adicionales (Request changes) o dejar comentarios (Comment), garantizando así una revisión del código antes de su integración.
