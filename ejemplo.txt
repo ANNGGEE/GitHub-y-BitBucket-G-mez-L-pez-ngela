@@ -1,2 +1,4 @@
 Mi proyecto de prueba
 Versión 1: Este es el contenido inicial.
+
+Versión 2: He añadido una nueva funcionalidad.
