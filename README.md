@@ -3,9 +3,7 @@ Repositorio de prueba para explorar y aprender a utilizar las principales funcio
 
 GitHub es una plataforma online que permite almacenar, gestionar y compartir proyectos de programación. Está basada en Git, un sistema de control de versiones que permite registrar los cambios realizados en los archivos de un proyecto, realizar un seguimiento de su evolución y recuperar versiones anteriores cuando sea necesario.
 
-Además, GitHub ofrece diferentes herramientas y funcionalidades que facilitan el proceso de desarrollo de software, desde la planificación y organización de tareas hasta la programación, colaboración entre desarrolladores, pruebas y mantenimiento de los proyectos.
-
-Tanto si se inicia un proyecto desde cero como si se colabora en uno ya existente, GitHub proporciona un conjunto de herramientas y flujos de trabajo que permiten gestionar las distintas fases del ciclo de vida del desarrollo de software (SDLC).
+Al pulsar sobre esta opción, se mostrará el historial de commits, donde podremos consultar los cambios realizados en el repositorio. Como acabamos de crearlo, por el momento solo encontraremos el commit inicial.
 
 ## MODIFICACIÓN DE ARCHIVO
 Añadimos nuevo contenido y observamos cómo GitHub registra posteriormente estos cambios.
