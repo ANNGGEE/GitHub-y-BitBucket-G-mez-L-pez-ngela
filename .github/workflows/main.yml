@@ -1,0 +1,14 @@
+name: Mi primera automatizacion
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  comprobar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Mostrar mensaje
+        run: echo "El workflow se ha ejecutado correctamente"
