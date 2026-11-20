@@ -6,3 +6,6 @@ Permiten proponer modificaciones en el código de un proyecto antes de incorpora
 
 GitHub incorpora un sistema de revisión que permite a los colaboradores valorar los cambios propuestos antes de incorporarlos al proyecto. Se pueden aprobar las modificaciones (Approve), solicitar cambios adicionales (Request changes) o dejar comentarios (Comment), garantizando así una revisión del código antes de su integración.
 Las Pull Requests (solicitudes de cambios) son una de las funcionalidades más importantes de GitHub. Permiten proponer modificaciones en el código de un proyecto antes de incorporarlas a una rama principal o a cualquier otra rama del repositorio.
+
+#USUARIOS Y COLABORADORES
+Para facilitar el trabajo en equipo, GitHub ofrece la posibilidad de invitar a otros usuarios a colaborar en un repositorio. Para ello, desde el apartado de configuración podemos acceder a la sección de colaboradores y añadir a las personas que queremos que participen en el proyecto, permitiéndoles acceder al repositorio según los permisos asignados.
